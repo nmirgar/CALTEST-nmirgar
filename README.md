@@ -1,2 +1,2 @@
-# CALTEST-nmirgar
-Repositorio de prueba de CALIDAD
+# Mi README nmirgar
+Repositorio de la asignatura CALIDAD del GIISI 
